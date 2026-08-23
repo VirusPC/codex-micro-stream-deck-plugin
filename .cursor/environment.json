@@ -1,0 +1,9 @@
+{
+  "name": "Codex Micro Stream Deck Plugin",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "user": "node",
+  "install": "npm install"
+}
